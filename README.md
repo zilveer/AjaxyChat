@@ -23,7 +23,11 @@ Ajaxy Chat is a simple to use chat script that will allow your users to get real
 - Open DATABASE.sql and insert it into your new made database
 - Edit file  db.php  and insert your database values
 - Make sure folder  /images/uploads  has 755 or 777 permissions.
-- Test it out on index.php! 
+
+Then, make a username by entering it in the lower textbox. Why not, change your password/email/chat name on the right side. After you made a username...
+
+- Go into database, and change admin to 1  (for your username)
+- Test it out, and enjoy. Look around in functions and script to better understand AjaxyChat.
 
 
 Ajaxy Chat is fully open source and is GPL friendly. You can use it for commercial projects, open source projects, or really just about whatever you want. If you made any updates to the script, I would really appreciated to see them posted! =D
