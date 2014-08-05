@@ -14,6 +14,7 @@ Ajaxy Chat is a simple to use chat script that will allow your users to get real
 - Custom Room Creation<br>
 - Right Side website information tabs<br>
 - Emoji's that can be easy modified<br>
+- Admin features (ban, kick)<br>
 
 
 <h2>Installation</h2>
