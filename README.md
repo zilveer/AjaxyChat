@@ -25,5 +25,5 @@ Ajaxy Chat is a simple to use chat script that will allow your users to get real
 - Test it out on index.php! 
 
 
-Ajaxy Chat is fully open source and is GPL friendly. You can use it for commercial projects, open source projects, or really just about whatever you want. If you made any updates to the script, I would really appreciated to see them posted!
+Ajaxy Chat is fully open source and is GPL friendly. You can use it for commercial projects, open source projects, or really just about whatever you want. If you made any updates to the script, I would really appreciated to see them posted! =D
 
