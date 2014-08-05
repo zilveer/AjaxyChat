@@ -22,7 +22,7 @@ $doquery = mysql_query("INSERT INTO rooms (fromuser, title, password, maketime) 
 $newid = mysql_insert_id();
 
 
-header("Location: http://www.teensupportchat.com");
+Header('Location: '.$webdomain);
 
 
 ?>
