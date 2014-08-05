@@ -24,7 +24,7 @@ $hashedpass = sha1($password);
 
 $result = mysql_query("UPDATE users SET email='$email', password='$hashedpass', maketime='$time', username='$username', chatname='$screenname' WHERE id='$fromuser'") or die(mysql_error());  
 
-Header("Location: http://www.teensupportchat.com/new.php");
+Header('Location: '.$webdomain);
 
 
 ?>
