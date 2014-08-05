@@ -8,6 +8,8 @@ $dbuser = "MYSQL_USER_HERE";
 $dbpass = "MYSQL_PASS_HERE";
 $dbdatabase = "MYSQL_DB_HERE";
 
+$webdomain = "http://YOURWEBSITEHERE.COM";
+
 mysql_connect("$dbhost", "$dbuser", "$dbpass") or die(mysql_error()); 
 mysql_select_db("$dbdatabase") or die(mysql_error());
 
