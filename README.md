@@ -16,6 +16,11 @@ Ajaxy Chat is a simple to use chat script that will allow your users to get real
 - Emoji's that can be easy modified<br>
 - Admin features (ban, kick)<br>
 
+<h3>Extra Features</h3>
+- Automatic YouTube video post if you enter URL in chat
+- Automatic new-tap hyperlink if click is clicked
+- Fetchs remote images from URL and inserts image for chat
+
 
 <h2>Installation</h2>
 
@@ -29,6 +34,13 @@ Then, make a username by entering it in the lower textbox. Why not, change your 
 
 - Go into database, and change admin to 1  (for your username)
 - Test it out, and enjoy. Look around in functions and script to better understand AjaxyChat.
+
+
+<h2>Known Issues</h2>
+- Ban/Kick needs to actually ban/kick user (ban user from site is ban/kick > time. Users->Ban/Kick in Mysql
+- Better logging in admin area
+
+
 
 
 Ajaxy Chat is fully open source and is GPL friendly. You can use it for commercial projects, open source projects, or really just about whatever you want. If you made any updates to the script, I would really appreciated to see them posted! =D
