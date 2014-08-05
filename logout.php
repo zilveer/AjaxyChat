@@ -11,6 +11,6 @@ $result = mysql_query("UPDATE users SET lasttime='0' WHERE id='$myuserid'") or d
 session_destroy();
 
 
-Header("Location: ".$webdomain);
+Header('Location: '.$webdomain);
 
 ?>
