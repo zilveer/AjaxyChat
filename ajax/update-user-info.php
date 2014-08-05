@@ -1,4 +1,13 @@
 <?php
+// AJAXY CHAT
+// PROGRAMMED BY: Hunter Long
+// GPL LICENSE - Please push updates to github!
+// https://github.com/Hunterlong/AjaxyChat
+
+
+
+
+
 
 session_start();
 
