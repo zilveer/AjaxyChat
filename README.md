@@ -22,6 +22,7 @@ Ajaxy Chat is a simple to use chat script that will allow your users to get real
 - Create a new MySQL database for ajaxychat
 - Open DATABASE.sql and insert it into your new made database
 - Edit file  db.php  and insert your database values
+- Make sure folder  /images/uploads  has 755 or 777 permissions.
 - Test it out on index.php! 
 
 
