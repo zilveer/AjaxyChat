@@ -11,6 +11,6 @@ $result = mysql_query("UPDATE users SET lasttime='0' WHERE id='$myuserid'") or d
 session_destroy();
 
 
-Header("Location: http://www.teensupportchat.com/new.php");
+Header("Location: ".$webdomain);
 
 ?>
